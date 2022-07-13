@@ -20,6 +20,8 @@ Run, "C:\Users\LIU\Dropbox\Words\.scripts\monthly_word_list_regenerate.bat"
 Sleep 3000
 Run, "C:\Users\LIU\Dropbox\Words\.scripts\anki_import_gui.bat"
 Sleep 10000
+if WinExist("Import")
+    WinActivate  ;Use the window found by WinExist.
 Send, {ENTER}
 Sleep 1000
 Send, {ENTER}
