@@ -12,6 +12,13 @@ Auto sync
 One click to run  
 
 
+Note
+----
+
+Windows only  
+These scripts run on my system well, and I think it can run anywhere else  
+
+
 Dependencies
 ------------
 
@@ -26,4 +33,5 @@ How To Use
 ----------
 
 Modify the path  
+Fix the script for your environment by yourself  
 Run "anki_import.ahk"  
