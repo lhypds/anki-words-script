@@ -3,6 +3,10 @@ Anki Words Script
 =================
 
 
+Windows only  
+These scripts run on my system well, and I think it can run anywhere else  
+
+
 Features
 --------
 
@@ -10,13 +14,6 @@ Loop all words file, generate word list form the 'Words'
 Auto import  
 Auto sync  
 One click to run  
-
-
-Note
-----
-
-Windows only  
-These scripts run on my system well, and I think it can run anywhere else  
 
 
 Dependencies
