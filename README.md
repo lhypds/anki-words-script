@@ -26,7 +26,7 @@ Dependencies
 2. AutoHotKey
 3. Python, I'm using 3.10
 4. Windows batch file  
-*5. Windows task scheduler(optional)
+5(optional). Windows task scheduler
 
 
 How To Use
